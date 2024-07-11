@@ -1,10 +1,19 @@
 # GitHub Test
 
+This is a simple way to show how github works
+
 ## Introduction
+
+This is the introduction of the GitHub
 
 ## Purpose
 
+This is the purpose of the github
+
 ##Deployment
 
+This can be used for deployment of the git
+
 ## How to Contribute
-a simple demo repository to show the basic Git workflow
+
+This is how to contribute
