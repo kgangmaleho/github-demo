@@ -20,4 +20,4 @@ This is how to contribute
 
 ## Copyright
 
-this is for universal use only! DO NOT USE IT IN OTHER UNIVERSES!
+this is for universal use only! DO NOT USE IT IN OTHER UNIVERSES! uni
