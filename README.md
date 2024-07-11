@@ -10,10 +10,14 @@ This is the introduction of the GitHub
 
 This is the purpose of the github
 
-##Deployment
+## Deployment
 
 This can be used for deployment of the git
 
 ## How to Contribute
 
 This is how to contribute
+
+## Copyright
+
+this is for universal use only! DO NOT USE IT IN OTHER UNIVERSES!
